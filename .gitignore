@@ -1,0 +1,26 @@
+# Secret configuration / local data
+.env
+.env.*
+!.env.example
+*.db
+*.db-*
+*.sqlite3
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Next.js / Node
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+
+# OS / tools
+.DS_Store
+.idea/
+.vscode/
+*.log

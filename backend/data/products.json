@@ -1,0 +1,272 @@
+[
+  {
+    "name": "iPhone 15 Pro",
+    "brand": "Apple",
+    "description": "Latest iPhone with titanium design, A17 Pro chip, and advanced camera system",
+    "price": 999.0,
+    "original_price": 1099.0,
+    "rating": 4.8,
+    "review_count": 2847,
+    "stock": 45,
+    "features": [
+      "A17 Pro Chip",
+      "6.1\" Display",
+      "48MP Camera",
+      "Titanium Build"
+    ],
+    "image_url": "https://images.pexels.com/photos/18525574/pexels-photo-18525574.jpeg",
+    "category": "Phones"
+  },
+  {
+    "name": "Samsung Galaxy S24 Ultra",
+    "brand": "Samsung",
+    "description": "Premium Android flagship with S Pen, advanced AI features, and 200MP camera",
+    "price": 1199.0,
+    "original_price": null,
+    "rating": 4.7,
+    "review_count": 1923,
+    "stock": 32,
+    "features": [
+      "200MP Camera",
+      "S Pen",
+      "6.8\" Display",
+      "AI Features"
+    ],
+    "image_url": "https://images.pexels.com/photos/30466741/pexels-photo-30466741.jpeg",
+    "category": "Phones"
+  },
+  {
+    "name": "Google Pixel 8 Pro",
+    "brand": "Google",
+    "description": "AI-powered photography, pure Android experience, and advanced computational features",
+    "price": 899.0,
+    "original_price": null,
+    "rating": 4.6,
+    "review_count": 1456,
+    "stock": 28,
+    "features": [
+      "AI Photography",
+      "Pure Android",
+      "6.7\" Display",
+      "Titan M2 Chip"
+    ],
+    "image_url": "https://images.pexels.com/photos/32218867/pexels-photo-32218867.jpeg",
+    "category": "Phones"
+  },
+  {
+    "name": "MacBook Pro 16\" M3 Max",
+    "brand": "Apple",
+    "description": "Ultimate creative powerhouse with M3 Max chip, stunning Liquid Retina XDR display",
+    "price": 2499.0,
+    "original_price": 2699.0,
+    "rating": 4.9,
+    "review_count": 987,
+    "stock": 15,
+    "features": [
+      "M3 Max Chip",
+      "16\" Liquid Retina XDR",
+      "36GB RAM",
+      "1TB SSD"
+    ],
+    "image_url": "https://images.pexels.com/photos/18105/pexels-photo.jpg",
+    "category": "Laptops"
+  },
+  {
+    "name": "Dell XPS 13 Plus",
+    "brand": "Dell",
+    "description": "Ultra-premium Windows laptop with stunning OLED display and sleek design",
+    "price": 1399.0,
+    "original_price": null,
+    "rating": 4.5,
+    "review_count": 743,
+    "stock": 22,
+    "features": [
+      "13.4\" OLED",
+      "Intel 12th Gen",
+      "16GB RAM",
+      "Premium Build"
+    ],
+    "image_url": "https://images.pexels.com/photos/3776438/pexels-photo-3776438.jpeg",
+    "category": "Laptops"
+  },
+  {
+    "name": "ASUS ROG Zephyrus G16",
+    "brand": "ASUS",
+    "description": "High-performance gaming laptop with RTX 4070, AMD Ryzen 9, and 240Hz display",
+    "price": 1899.0,
+    "original_price": null,
+    "rating": 4.7,
+    "review_count": 634,
+    "stock": 18,
+    "features": [
+      "RTX 4070",
+      "AMD Ryzen 9",
+      "240Hz Display",
+      "ROG Design"
+    ],
+    "image_url": "https://images.pexels.com/photos/12877878/pexels-photo-12877878.jpeg",
+    "category": "Laptops"
+  },
+  {
+    "name": "Sony WH-1000XM5",
+    "brand": "Sony",
+    "description": "Industry-leading noise canceling headphones with exceptional sound quality",
+    "price": 349.0,
+    "original_price": 399.0,
+    "rating": 4.8,
+    "review_count": 3421,
+    "stock": 67,
+    "features": [
+      "Active Noise Canceling",
+      "30hr Battery",
+      "Hi-Res Audio",
+      "Touch Controls"
+    ],
+    "image_url": "https://images.pexels.com/photos/10292805/pexels-photo-10292805.jpeg",
+    "category": "Audio"
+  },
+  {
+    "name": "Apple AirPods Pro (2nd Gen)",
+    "brand": "Apple",
+    "description": "Advanced active noise cancellation, spatial audio, and seamless Apple integration",
+    "price": 249.0,
+    "original_price": null,
+    "rating": 4.7,
+    "review_count": 2847,
+    "stock": 89,
+    "features": [
+      "Active Noise Canceling",
+      "Spatial Audio",
+      "H2 Chip",
+      "MagSafe Case"
+    ],
+    "image_url": "https://images.pexels.com/photos/3825517/pexels-photo-3825517.jpeg",
+    "category": "Audio"
+  },
+  {
+    "name": "Bose QuietComfort Ultra",
+    "brand": "Bose",
+    "description": "Premium comfort with world-class noise cancellation and immersive audio",
+    "price": 429.0,
+    "original_price": null,
+    "rating": 4.6,
+    "review_count": 1234,
+    "stock": 34,
+    "features": [
+      "QuietComfort Technology",
+      "Spatial Audio",
+      "Premium Materials",
+      "24hr Battery"
+    ],
+    "image_url": "https://images.pexels.com/photos/7748203/pexels-photo-7748203.jpeg",
+    "category": "Audio"
+  },
+  {
+    "name": "PlayStation 5 Slim",
+    "brand": "Sony",
+    "description": "Latest PlayStation console with enhanced performance and sleeker design",
+    "price": 499.0,
+    "original_price": null,
+    "rating": 4.8,
+    "review_count": 4567,
+    "stock": 12,
+    "features": [
+      "Custom SSD",
+      "4K Gaming",
+      "Ray Tracing",
+      "DualSense Controller"
+    ],
+    "image_url": "https://images.pexels.com/photos/13189272/pexels-photo-13189272.jpeg",
+    "category": "Gaming"
+  },
+  {
+    "name": "Xbox Series X",
+    "brand": "Microsoft",
+    "description": "Most powerful Xbox ever with 4K gaming, ray tracing, and quick resume",
+    "price": 499.0,
+    "original_price": null,
+    "rating": 4.7,
+    "review_count": 3456,
+    "stock": 8,
+    "features": [
+      "12 TeraFLOPS",
+      "4K/120fps",
+      "Quick Resume",
+      "Smart Delivery"
+    ],
+    "image_url": "https://images.pexels.com/photos/5626726/pexels-photo-5626726.jpeg",
+    "category": "Gaming"
+  },
+  {
+    "name": "Razer DeathAdder V3 Pro",
+    "brand": "Razer",
+    "description": "Professional esports gaming mouse with 90-hour battery and precision sensors",
+    "price": 149.0,
+    "original_price": 179.0,
+    "rating": 4.6,
+    "review_count": 892,
+    "stock": 156,
+    "features": [
+      "90hr Battery",
+      "Focus Pro Sensor",
+      "Ergonomic Design",
+      "RGB Lighting"
+    ],
+    "image_url": "https://images.pexels.com/photos/8176505/pexels-photo-8176505.jpeg",
+    "category": "Gaming"
+  },
+  {
+    "name": "Amazon Echo Studio",
+    "brand": "Amazon",
+    "description": "High-fidelity smart speaker with 3D audio and Dolby Atmos support",
+    "price": 199.0,
+    "original_price": null,
+    "rating": 4.4,
+    "review_count": 2341,
+    "stock": 45,
+    "features": [
+      "3D Audio",
+      "Dolby Atmos",
+      "Voice Control",
+      "Smart Home Hub"
+    ],
+    "image_url": "https://images.pexels.com/photos/4790268/pexels-photo-4790268.jpeg",
+    "category": "Smart Home"
+  },
+  {
+    "name": "Nest Thermostat",
+    "brand": "Google",
+    "description": "Smart thermostat that learns your schedule and saves energy automatically",
+    "price": 249.0,
+    "original_price": null,
+    "rating": 4.5,
+    "review_count": 1876,
+    "stock": 78,
+    "features": [
+      "Auto-Schedule",
+      "Energy Saving",
+      "Remote Control",
+      "Voice Commands"
+    ],
+    "image_url": "https://images.pexels.com/photos/190048/pexels-photo-190048.jpeg",
+    "category": "Smart Home"
+  },
+  {
+    "name": "Ring Video Doorbell Pro 2",
+    "brand": "Ring",
+    "description": "Advanced smart doorbell with 3D motion detection and crystal clear HD video",
+    "price": 279.0,
+    "original_price": 329.0,
+    "rating": 4.3,
+    "review_count": 3421,
+    "stock": 23,
+    "features": [
+      "3D Motion Detection",
+      "HD Video",
+      "Two-Way Talk",
+      "Night Vision"
+    ],
+    "image_url": "https://images.pexels.com/photos/9461215/pexels-photo-9461215.jpeg",
+    "category": "Smart Home"
+  }
+]
