@@ -16,7 +16,7 @@ def generate_reply(message: str, history: list, products: list) -> str:
     if not key:
         raise ChatError("The AI assistant is not configured. Add GOOGLE_API_KEY to backend/.env.", 503)
 
-    model = os.getenv("GEMINI_MODEL", "gemini-3.8-flash").strip()
+    model = os.getenv("GEMINI_MODEL", "gemini-3.5-flash-lite").strip()
     if not model or not all(c.isalnum() or c in "-_." for c in model):
         raise ChatError("Invalid GEMINI_MODEL configuration.", 503)
 
